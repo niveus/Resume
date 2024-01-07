@@ -47,8 +47,7 @@ Worked on the Labs team on ecommerce products, then moved to the core Tango Mess
 
 ## Education
 
-### Michigan State University
-2000 - 2004
+### Michigan State University - Bachelors
 
 ## Skills
 * iOS: Swift, SwiftUI, Bluetooth, Objective-C, UIKit, various other system libraries
