@@ -50,6 +50,6 @@ Worked on the Labs team on ecommerce products, then moved to the core Tango Mess
 ### Michigan State University - Bachelors
 
 ## Skills
-* iOS: Swift, SwiftUI, Bluetooth, Objective-C, UIKit, various other system libraries
+* iOS: Swift, SwiftUI, Bluetooth, Objective-C, UIKit, various other system libraries, MVVM, CI
 * Web: HTML, CSS, Javascript, some Typescript
 * Backend: Ruby, Rails, Python, MySQL, Postgres
